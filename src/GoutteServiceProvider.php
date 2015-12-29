@@ -1,6 +1,6 @@
-<?php namespace Weidner\Goutte;
+<?php namespace canaveensetia\Goutte;
 
-use Weidner\Goutte\Goutte;
+use canaveensetia\Goutte\Goutte;
 use Illuminate\Support\ServiceProvider;
 
 class GoutteServiceProvider extends ServiceProvider {
