@@ -1,4 +1,4 @@
-<?php namespace Weidner\Goutte;
+<?php namespace canaveensetia\Goutte;
 
 use Illuminate\Support\Facades\Facade;
 
